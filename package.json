@@ -1,0 +1,14 @@
+{
+  "name": "easy-auth",
+  "version": "0.1.0",
+  "description": "easy-auth is a simple user password authentication module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node easy-auth-test"
+  },
+  "author": "Chris Kuo",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^1.0.3"
+  }
+}
